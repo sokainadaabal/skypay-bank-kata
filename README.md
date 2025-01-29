@@ -88,7 +88,7 @@ mvn -Dtest=AccountServiceImplTest test
 | `services` | `AccountServiceImpl` | Implémente la gestion du compte bancaire |
 | `test` | `StatementPrinterTest` | Teste le formatage du relevé bancaire |
 | `test` | `AccountServiceImplTest` | Teste la logique métier des transactions |
-| `test` | `org.Skypay.services.AccountAcceptanceMockistTest` | Vérifie l’appel correct à `print()` avec Mockito |
+| `test` | `AccountAcceptanceMockistTest` | Vérifie l’appel correct à `print()` avec Mockito |
 
 ---
 

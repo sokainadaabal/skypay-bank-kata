@@ -1,0 +1,3 @@
+org\skypay\services\AccountServiceImplTest.class
+org\skypay\entites\StatementPrinterTest.class
+org\skypay\services\AccountAcceptanceMockistTest.class
